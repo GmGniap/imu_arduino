@@ -7,3 +7,4 @@ Complementary Filter
 - http://www.pieter-jan.com/node/11
 
 Calibrating part
+- https://wired.chillibasket.com/2015/01/calibrating-mpu6050/
