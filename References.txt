@@ -1,0 +1,9 @@
+Useful links that I used to apply while testing IMU
+
+Sensor Setup
+-
+
+Complementary Filter
+- http://www.pieter-jan.com/node/11
+
+Calibrating part
