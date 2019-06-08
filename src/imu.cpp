@@ -145,7 +145,7 @@ void setup() {
   Serial.begin(9600);
   Wire.begin();
   setUpMPU();
-  //callibrateGyroValues();
+  callibrateGyroValues();
   timePresent = millis();
 }
 
@@ -155,6 +155,6 @@ void loop() {
   //readAndProcessGyroData();
   //printData();
   //getAngularVelocity();             //Testing code
-  callibrateGyroValues();             //Testing code
+
   delay(100);
 }
